@@ -1,0 +1,32 @@
+Original array:
+56 79 60 32 64 12 10 91 41 80 72 39 
+
+Bubble Sort Result:
+10 12 32 39 41 56 60 64 72 79 80 91 
+
+Merge Sort Result:
+10 12 32 39 41 56 60 64 72 79 80 91 
+
+Linear Search Result:
+Target: 60
+Target found at index: 2
+
+Linear Search Result:
+Target: 39
+Target found at index: 11
+
+Linear Search Result:
+Target: 100
+Target not found.
+
+Binary Search Result:
+Target: 91
+Target found at index: 11
+
+Binary Search Result:
+Target: 12
+Target found at index: 1
+
+Binary Search Result:
+Target: 100
+Target not found.
